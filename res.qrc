@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>actions/endturn.png</file>
+        <file>actions/exit.png</file>
+        <file>actions/fileopen.png</file>
+        <file>actions/filesave.png</file>
+        <file>actions/help.png</file>
+    </qresource>
+</RCC>
